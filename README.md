@@ -16,6 +16,8 @@
 
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/New%20Wireframe%202.png)
 
+# TinDog Project
+
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/tindog1.jpg)
 
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/tindog2.jpg)
