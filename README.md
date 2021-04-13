@@ -1,5 +1,9 @@
 # THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS
 
+# Boss Level Challenge 1 - The Dicee Game
+
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/dicee.jpg)
+
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/1.png)
 
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/2.png)
