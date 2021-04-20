@@ -1,5 +1,12 @@
 # THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS
 
+# WEATHER APP
+
+(JAVASCRIPT, NODE.JS, EXPRESS.JS, BODY-PARSER, API: https://openweathermap.org/)
+
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/query.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/answer.jpg)
+
 # BMI Calculator
 (JAVASCRIPT, NODE.JS, EXPRESS.JS)
 
