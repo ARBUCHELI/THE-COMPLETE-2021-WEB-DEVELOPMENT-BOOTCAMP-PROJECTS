@@ -4,8 +4,10 @@
 
 (JAVASCRIPT, NODE.JS, EXPRESS.JS, BODY-PARSER, API: www.mailchimp.com, git, HTML, CSS, Deployed using HEROKU)
 
-
-
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/nl.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/nl2.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/nl3.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/nl4.jpg)
 # WEATHER APP
 
 (JAVASCRIPT, NODE.JS, EXPRESS.JS, BODY-PARSER, API: https://openweathermap.org/)
