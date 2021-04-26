@@ -1,9 +1,18 @@
 # THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS
 
+# BLOG WEB APP
+Single Page App.
+(JAVASCRIPT, NODE.JS, EXPRESS.JS, BODY-PARSER, LODASH, HTML, CSS, EJS TEMPLATES, JSON)
+
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/blog1.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/blog2.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/blog3.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/blog4.jpg)
+
 
 # TODO LIST
 Single Page App.
-(JAVASCRIPT, NODE.JS, EXPRESS.JS, BODY-PARSER, HTML, CSS, EJS TEMPLATES)
+(JAVASCRIPT, NODE.JS, EXPRESS.JS, BODY-PARSER, HTML, CSS, EJS TEMPLATES, JSON)
 
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/todo1.jpg)
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/todo2.jpg)
@@ -14,7 +23,7 @@ Single Page App.
 
 # NEWSLETTER-SIGNUP PROJECT
 Single Page App.
-(JAVASCRIPT, NODE.JS, EXPRESS.JS, BODY-PARSER, API: www.mailchimp.com, git, HTML, CSS, Deployed using HEROKU)
+(JAVASCRIPT, NODE.JS, EXPRESS.JS, BODY-PARSER, API: www.mailchimp.com, git, HTML, CSS, Deployed using HEROKU, JSON)
 
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/nl.jpg)
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/nl2.jpg)
