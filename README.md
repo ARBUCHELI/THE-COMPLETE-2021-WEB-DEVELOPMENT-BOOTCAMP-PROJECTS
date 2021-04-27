@@ -3,6 +3,9 @@
 
 # SIMPLE MONGO DB APP
 Node.JS App integrated with MongoDB.
+(JAVASCRIPT, NODE.JS, EXPRESS.JS, JSON, MONGODB)
+
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/mongodbapp.png)
 
 # BLOG WEB APP
 Single Page App.
