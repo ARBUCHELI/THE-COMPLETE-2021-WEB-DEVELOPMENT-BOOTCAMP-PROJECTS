@@ -4,6 +4,9 @@
 Node.JS App integrated with MongoDB.
 (MONGOOSE, JAVASCRIPT, NODE.JS, EXPRESS.JS, JSON, MONGODB)
 
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/mongoose1.png)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/mongoose2.jpg)
+
 
 # SIMPLE MONGO DB APP
 Node.JS App integrated with MongoDB.
