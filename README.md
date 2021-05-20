@@ -2,6 +2,7 @@
 
 # KEEPER - PART 1
 (JAVASCRIPT, REACT)
+
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/keeper.jpg)
 
 # REACT COMPONENTS PRACTICE
