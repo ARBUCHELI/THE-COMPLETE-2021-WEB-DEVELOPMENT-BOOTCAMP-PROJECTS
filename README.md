@@ -7,10 +7,12 @@
 
 # REACT COMPONENTS PRACTICE
 (JAVASCRIPT, REACT)
+
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/React%20Components%20Practice.jpg)
 
 # SECRETS (AUTHENTICATION & SECURITY)
 (MONGODB, MONGOOSE, JAVASCRIPT, NODE.JS, EXPRESS.JS, JSON, LODASH, CSS, HTML, BCRYPT, PASSPORT.JS, OAUTH 2.0)
+
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/Secrets1.jpg)
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/secrets2.jpg)
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/secrets3.jpg)
