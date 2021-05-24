@@ -4,7 +4,7 @@
 # DESTRUCTURING
 (JAVASCRIPT, REACT)
 
-![](
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/destructuring.png)
 
 
 # REAL TIME CLOCK APP
