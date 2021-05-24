@@ -3,6 +3,7 @@
 
 # EVENT HANDLING IN REACT
 (JAVASCRIPT, REACT)
+
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/event1.jpg)
 ![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/event2.jpg)
 
