@@ -4,7 +4,8 @@
 # REACT FORMS
 (JAVASCRIPT, REACT)
 
-![]()
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/Forms2.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/Form3.jpg)
 
 
 # EVENT HANDLING IN REACT
