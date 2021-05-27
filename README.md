@@ -1,6 +1,16 @@
 # THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS
 
 
+# MANAGING A COMPONENT TREE
+(JAVASCRIPT, REACT)
+
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/manage1.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/manage2.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/manage3.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/manage4.jpg)
+![](https://raw.githubusercontent.com/ARBUCHELI/THE-COMPLETE-2021-WEB-DEVELOPMENT-BOOTCAMP-PROJECTS/master/images/manage5.jpg)
+
+
 # REACT TODO LIST
 (JAVASCRIPT, REACT)
 
